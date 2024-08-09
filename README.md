@@ -27,8 +27,9 @@ This project aims to build a Paytm-like application, implementing features such 
 
 -------------------------
 3. Features
-3.1 User Features
    
+3.1 User Features
+
 1.User Login: Supports authentication via email or phone.
 
 2.Money Transfer: Transfer money via phone number, name, or QR code.
