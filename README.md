@@ -28,6 +28,7 @@ This project aims to build a Paytm-like application, implementing features such 
 -------------------------
 3. Features
 3.1 User Features
+   
 1.User Login: Supports authentication via email or phone.
 
 2.Money Transfer: Transfer money via phone number, name, or QR code.
@@ -35,6 +36,7 @@ This project aims to build a Paytm-like application, implementing features such 
 3.Withdraw Balance: Withdraw balance back to the bank.
 
 3.2 Merchant Features(FUTURE SCOPES FOR IMPROVEMENT)
+
 1.Merchant Login: Login via Google.
 
 2.QR Code Generation: Generate QR codes for payment acceptance.
